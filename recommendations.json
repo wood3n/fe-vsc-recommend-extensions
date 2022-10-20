@@ -1,0 +1,29 @@
+{
+  "recommendations": [
+    "formulahendry.auto-close-tag",
+    "steoates.autoimport",
+    "christian-kohler.path-intellisense",
+    "formulahendry.auto-rename-tag",
+    "dracula-theme.theme-dracula",
+    "pkief.material-icon-theme",
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "sidthesloth.html5-boilerplate",
+    "kisstkondoros.vscode-gutter-preview",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "jock.svg",
+    "wayou.vscode-todo-highlight",
+    "gruntfuggly.todo-tree",
+    "piotrpalarz.vscode-gitignore-generator",
+    "redhat.vscode-yaml",
+    "unifiedjs.vscode-mdx",
+    "kruemelkatze.vscode-dashboard",
+    "chakrounanas.turbo-console-log",
+    "codeandstuff.package-json-upgrade",
+    "naumovs.color-highlight",
+    "wmaurer.change-case"
+  ]
+}
