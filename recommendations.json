@@ -24,6 +24,7 @@
     "chakrounanas.turbo-console-log",
     "codeandstuff.package-json-upgrade",
     "naumovs.color-highlight",
-    "wmaurer.change-case"
+    "wmaurer.change-case",
+    "alefragnani.project-manager"
   ]
 }
